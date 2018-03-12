@@ -1,0 +1,10 @@
+{
+    "version": "1.0",
+    "name": "tvp-mod",
+    "author": "Broodrooster",
+    "jcmp_dependencies": [
+        "chat",
+        "command-manager",
+        "spawn-menu"
+    ]
+}
